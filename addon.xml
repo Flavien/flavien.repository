@@ -3,7 +3,7 @@
   <extension point="xbmc.addon.repository" name="Flavien add-ons">
     <info compressed="false">https://raw.githubusercontent.com/Flavien/flavien.repository/master/addons/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/Flavien/flavien.repository/master/addons/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.githubusercontent.com/Flavien/flavien.repository/blob/master/addons/</datadir>
+    <datadir zip="true">https://github.com/Flavien/flavien.repository/raw/master/addons/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Flavien add-ons</summary>
