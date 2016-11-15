@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="plugin.program.jumplists" name="Jumplists" provider-name="Flavien" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0" />
+    <import addon="script.module.xbmcswift2" version="2.4.0" />
+  </requires>
+  <extension library="main.py" point="xbmc.python.pluginsource">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Display a list of customisable links</summary>
+    <description lang="en">Jumplists is a lightweight Kodi add-on that displays a list of customisable links.</description>
+    <license>Apache License 2.0</license>
+    <language>en</language>
+    <source>https://github.com/flavien/plugin.program.jumplists/</source>
+    <website>https://github.com/flavien/</website>
+    <email>flavien@charlon.net</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon><addon id="script.buildinstaller" name="Build Installer" provider-name="Flavien" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0" />
+  </requires>
+  <extension library="addon.py" point="xbmc.python.script">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Add-on installation script</summary>
+    <description lang="en">
+      Build Installer is a script that automatically installs a list of add-ons from their online repositories. The repositories from which to fetch the add-ons must be preinstalled.
+    </description>
+    <license>Apache License 2.0</license>
+    <language>en</language>
+    <source>https://github.com/flavien/script.buildinstaller</source>
+    <website>https://github.com/flavien/</website>
+    <email>flavien@charlon.net</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon></addons>

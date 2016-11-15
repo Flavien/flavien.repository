@@ -22,3 +22,4 @@
 *.pyc       binary
 *.pyd       binary
 *.pyo       binary
+*.zip       binary
