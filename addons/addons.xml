@@ -44,8 +44,8 @@
       </assets>
     </extension>
   </addon>
-  <addon id="repository.flavien" name="Flavien add-ons" provider-name="Flavien" version="1.0.0">
-    <extension name="Flavien add-ons" point="xbmc.addon.repository">
+  <addon id="repository.flavien" name="Flavien Add-ons" provider-name="Flavien" version="1.0.0">
+    <extension name="Flavien Add-ons" point="xbmc.addon.repository">
       <info compressed="false">https://raw.githubusercontent.com/Flavien/flavien.repository/master/addons/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/Flavien/flavien.repository/master/addons/addons.xml.md5</checksum>
       <datadir zip="true">https://github.com/Flavien/flavien.repository/raw/master/addons/</datadir>
