@@ -51,7 +51,7 @@
       <datadir zip="true">https://github.com/Flavien/flavien.repository/raw/master/addons/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-      <summary>Flavien add-ons</summary>
+      <summary>Add-on repository</summary>
       <description>Use this repository to install add-ons created by Flavien.</description>
       <source>https://github.com/Flavien/flavien.repository</source>
       <website>https://github.com/flavien/</website>
