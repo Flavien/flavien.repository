@@ -7,7 +7,10 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Flavien add-ons</summary>
-    <description>Use this repository to install addons created by Flavien.</description>
+    <description>Use this repository to install add-ons created by Flavien.</description>
+    <source>https://github.com/Flavien/flavien.repository</source>
+    <website>https://github.com/flavien/</website>
+    <email>flavien@charlon.net</email>
     <platform>all</platform>
   </extension>
 </addon>
