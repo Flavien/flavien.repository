@@ -46,12 +46,12 @@
   </addon>
   <addon id="screensaver.panasonic" name="Panasonic TV Screensaver" provider-name="Flavien" version="1.0.0">
     <requires>
-      <import addon="xbmc.python" version="2.24.0" />
+      <import addon="xbmc.python" version="2.14.0" />
     </requires>
     <extension library="screensaver.py" point="xbmc.ui.screensaver" />
     <extension point="xbmc.addon.metadata">
       <summary lang="en">Screensaver turning off a Panasonic TV</summary>
-      <description lang="en">This screensaver add-on automatically turns off a Panasonic TV when the screensaver activates.</description>
+      <description lang="en">This screensaver add-on automatically turns off a Panasonic TV when it activates.</description>
       <license>Apache License 2.0</license>
       <language>en</language>
       <source>https://github.com/flavien/screensaver.panasonic/</source>
