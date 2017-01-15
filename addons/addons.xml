@@ -44,7 +44,7 @@
       </assets>
     </extension>
   </addon>
-  <addon id="screensaver.panasonic" name="Panasonic TV Screensaver" provider-name="Flavien" version="1.0.0">
+  <addon id="screensaver.panasonic" name="Panasonic TV Screensaver" provider-name="Flavien" version="1.0.1">
     <requires>
       <import addon="xbmc.python" version="2.14.0" />
     </requires>
